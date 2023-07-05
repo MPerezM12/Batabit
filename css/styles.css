@@ -38,12 +38,12 @@ header {
     text-align: center;
     background: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
 }
-header img {
+    header img {
     width: 151px;
     height: 24px;
     margin-top: 60px;
     align-self: center;
-}
+} 
 .header--title--container {
     width: 90%;
     min-width: 288px;
@@ -76,8 +76,7 @@ header img {
     width: 229px;
     height: 48px;
     background-color: var(--off-white);
-    /*Sombra*/
-    box-shadow: 0px 4px 8px rgba(89, 73, 30, 0.16);
+    box-shadow: 0px 4px 8px rgba(89, 73, 30, 0.16); /*Sombra*/
     border: none;
     border-radius: 5px;
     font-size: 1.4rem;
