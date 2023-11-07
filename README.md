@@ -1,4 +1,4 @@
-# Batabit🪙 
+# Batatabit🪙 
 
 🌐 Deploy available here: <a href="" rel="nofollow">Batabit</a>
 
