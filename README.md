@@ -1,6 +1,6 @@
 # Batatabit🪙 
 
-🌐 Deploy available here: <a href="" rel="nofollow">Batabit</a>
+🌐 Deploy available here: <a href="https://mperezm12.github.io/Batabit/" rel="nofollow">Batatabit</a>
 
 This project was created in the Responsive Design: Mobile-First Layout course at Platzi. 
 I utilized HTML and CSS for this landing page. The website is entirely responsive and was designed using a wireframe.
